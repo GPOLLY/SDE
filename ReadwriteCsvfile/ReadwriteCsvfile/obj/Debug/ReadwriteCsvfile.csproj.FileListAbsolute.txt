@@ -1,0 +1,16 @@
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\bin\Debug\ReadwriteCsvfile.exe
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\bin\Debug\ReadwriteCsvfile.pdb
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.Form1.resources
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.Properties.Resources.resources
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.csproj.GenerateResource.Cache
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.exe
+C:\Users\admni\Desktop\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.pdb
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.exe
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.pdb
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\bin\Debug\ReadwriteCsvfile.exe
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\bin\Debug\ReadwriteCsvfile.pdb
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ResolveAssemblyReference.cache
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.Form1.resources
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.Properties.Resources.resources
+D:\Privacy Center SDE\ReadwriteCsvfile\ReadwriteCsvfile\obj\Debug\ReadwriteCsvfile.csproj.GenerateResource.Cache
